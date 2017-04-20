@@ -1,7 +1,7 @@
 package com.example;
 
 /**
- * This is a training class.
+ * This is a training test class.
  */
 public class Greeter {
 
